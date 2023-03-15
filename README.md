@@ -9,5 +9,5 @@ python create_features_for_crf_from_raw_tokenized_data.py --input input_file --o
 ### If you need a tokenizer for Indian Languages, use this repository
 https://github.com/Pruthwik/Tokenizer_for_Indian_Languages 
 ## 2. Run the CRF model to predict tags on the features file
-crf_test -m model_path features_file > predicted_outputs
-cut -f1,14 predicted_outputs > token_predicted_pos.txt
+### crf_test -m model_path features_file > predicted_outputs
+### cut -f1,14 predicted_outputs > token_predicted_pos.txt
