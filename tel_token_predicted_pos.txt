@@ -1,0 +1,29 @@
+స్వచ్ఛందంగా	RB
+ఎవరికి	PR_PRL
+వారు	PR_PRP
+తమకు	PR_PRP
+తెలిసిన	V_VM_VNF
+సమాచారాన్ని	N_NN
+లిఖిత	JJ
+ఆధారాలతో	N_NN
+ఒక	QT_QTC
+చోట	N_NN
+చేర్చగలగటం,	N_NN
+మార్చగలగటం	V_VM_VNG
+అనే	CC_CCS
+ఊహకు	N_NN
+రూపమే	N_NN
+ఇది.	PR_PRP
+
+వెన్న	N_NN
+నాగార్జున	N_NN
+ప్రారంభ	N_NN
+కృషి	N_NN
+చేయగా,	V_VM_VF
+దీనిలో	PR_PRP
+చాలామంది	QT_QTF
+సభ్యులై	V_VM_VNF
+అభివృద్ధి	N_NN
+పథంలో	N_NN
+నడిపించారు.	V_VM_VF
+
